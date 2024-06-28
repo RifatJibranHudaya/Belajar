@@ -1,6 +1,10 @@
 .jumbotron {
   background-color: rgb(6, 132, 242);
+  padding-top: 6rem;
 }
 .skill {
-  background-color: rgb(6, 132, 242);
+  background-color: #0684f2;
+}
+section {
+  padding-top: 5rem;
 }
